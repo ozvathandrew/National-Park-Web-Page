@@ -1,0 +1,52 @@
+.links {
+	list-style: none;
+}
+
+img {
+	border-radius: 25px;
+}
+
+.logo img {
+	width: 50%;
+	min-width: 200px;
+}
+
+.col {
+	list-style: none;
+}
+
+.submit {
+	margin-right: 40%;
+	margin-left: 40%;
+}
+
+.img-center img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.image-surveyResults-page {
+	object-fit: cover;
+	padding: 5px;
+	width: 90%;
+	height: auto;
+	max-width: 250px;
+}
+
+.survey-results-header {
+	padding-left: 10px;
+}
+
+.container survey-page {
+	margin-left: inherit;
+}
+
+.resultsParkName {
+	font-size: 125%;
+}
+
+.image-home-page {
+	object-fit: cover;
+	width: 100%;
+}
